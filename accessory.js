@@ -5,7 +5,7 @@ function getAccessory() {
 }
 
 var randomAccessory = new Array();
-randomAccessory[0] = "/images/Acc-1.PNG";
-randomAccessory[1] = "/images/Acc-2.PNG";
-randomAccessory[2] = "/images/Acc-3.PNG";
+randomAccessory[0] = "https://polk54.github.io/outfit-generator-p/images/Acc-1.PNG";
+randomAccessory[1] = "https://polk54.github.io/outfit-generator-p/images/Acc-2.PNG";
+randomAccessory[2] = "https://polk54.github.io/outfit-generator-p/images/Acc-3.PNG";
 
