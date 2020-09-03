@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Outfit Generator</title>
+
+  <script src = "setup.js"></script>
+  <script src = "shirts.js"></script>
+  <script src = "pants.js"></script>
+  <script src = "shoes.js"></script>
+  <script src = "accessory.js"></script>
+  <script src = "jacket.js"></script>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link href="icon.png" rel="icon" type="image/png"/>
+  <link rel="stylesheet" href="style.css">
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
+  <link href="https://afeld.github.io/emoji-css/emoji.css" rel="stylesheet">
+
+</head>
+
+<body>
+  <h1> Outfit Generator </h1>
+
+<section>
+    <section1>
+    <p> Make an outfit </p>
+    <button id = "outfit" onclick="getOutfit()">Create Outfit </button>
+    <br><br>
+    <p> Change an item </p>
+    <button onclick="getShirt()">Shirt </button>
+    <button onclick="getPants()">Pants </button>
+    <button onclick="getAccessory()">Accessory </button>
+    <button onclick="getJacket()">Jacket </button>
+    <button onclick="getShoes()">Shoes </button>
+  </section1>
+
+  <section2>
+    <section3>
+      <div id = "shirtDisplay"> </div>
+      <div id = "pantsDisplay"> </div>
+    </section3>
+    <section4>
+      <div id = "accessoryDisplay"> </div>
+      <div id = "jacketDisplay"> </div>
+      <div id = "shoesDisplay"> </div>
+    </section4>
+  </section2>
+</section>
+
+</body>
+
+<footer>
+  <p> Check out the code <a href="https://github.com/polk54/outfit-generator">here</a></p>
+
+</footer>
+</div>
+</html>
