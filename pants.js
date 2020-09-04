@@ -5,6 +5,8 @@ function getPants() {
 }
 
 var randomPants = new Array();
-randomPants[0] = "https://s7d5.scene7.com/is/image/Anthropologie/4123650590089_029_b";
-randomPants[1] = "https://s7d5.scene7.com/is/image/Anthropologie/53208260_037_b2";
-randomPants[2] = "https://s7d5.scene7.com/is/image/Anthropologie/4122261180208_005_b";
+randomPants[0] = "https://polk54.github.io/outfit-generator-p/images/Bottom-1.jpg";
+randomPants[1] = "https://polk54.github.io/outfit-generator-p/images/Bottom-2.jpg";
+randomPants[2] = "https://polk54.github.io/outfit-generator-p/images/Bottom-3.jpg";
+randomPants[3] = "https://polk54.github.io/outfit-generator-p/images/Bottom-4.jpg";
+randomPants[4] = "https://polk54.github.io/outfit-generator-p/images/Bottom-5.jpg";
