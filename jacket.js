@@ -5,6 +5,8 @@ function getJacket() {
 }
 
 var randomJacket = new Array();
-randomJacket[0] = "https://s7d5.scene7.com/is/image/Anthropologie/4113690510006_080_b";
-randomJacket[1] = "https://s7d5.scene7.com/is/image/Anthropologie/4113529100070_004_b";
-randomJacket[2] = "https://s7d5.scene7.com/is/image/Anthropologie/4133380630020_090_b";
+randomJacket[0] = "https://polk54.github.io/outfit-generator-p/images/Jacket-1.jpg";
+randomJacket[1] = "https://polk54.github.io/outfit-generator-p/images/Jacket-2.jpg";
+randomJacket[2] = "https://polk54.github.io/outfit-generator-p/images/Jacket-3.jpg";
+randomJacket[3] = "https://polk54.github.io/outfit-generator-p/images/Jacket-4.jpg";
+randomJacket[4] = "https://polk54.github.io/outfit-generator-p/images/Jacket-5.jpg";
