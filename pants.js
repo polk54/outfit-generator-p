@@ -10,3 +10,4 @@ randomPants[1] = "https://polk54.github.io/outfit-generator-p/images/Bottom-2.jp
 randomPants[2] = "https://polk54.github.io/outfit-generator-p/images/Bottom-3.jpg";
 randomPants[3] = "https://polk54.github.io/outfit-generator-p/images/Bottom-4.jpg";
 randomPants[4] = "https://polk54.github.io/outfit-generator-p/images/Bottom-5.jpg";
+randomPants[5] = "https://polk54.github.io/outfit-generator-p/images/Bottom-6.jpg";
