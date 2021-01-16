@@ -10,4 +10,6 @@ randomAccessory[1] = "https://polk54.github.io/outfit-generator-p/images/Acc-2.j
 randomAccessory[2] = "https://polk54.github.io/outfit-generator-p/images/Acc-3.jpg";
 randomAccessory[3] = "https://polk54.github.io/outfit-generator-p/images/Acc-4.jpg";
 randomAccessory[4] = "https://polk54.github.io/outfit-generator-p/images/Acc-5.jpg";
-
+randomAccessory[5] = "https://polk54.github.io/outfit-generator-p/images/Acc-6.jpg";
+randomAccessory[6] = "https://polk54.github.io/outfit-generator-p/images/Acc-7.jpg";
+randomAccessory[7] = "https://polk54.github.io/outfit-generator-p/images/Acc-8.jpg";

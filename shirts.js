@@ -28,4 +28,6 @@ randomShirt[19] = "https://polk54.github.io/outfit-generator-p/images/Top-20.jpg
 randomShirt[20] = "https://polk54.github.io/outfit-generator-p/images/Top-21.jpg";
 randomShirt[21] = "https://polk54.github.io/outfit-generator-p/images/Top-22.jpg";
 randomShirt[22] = "https://polk54.github.io/outfit-generator-p/images/Top-23.jpg";
-
+randomShirt[23] = "https://polk54.github.io/outfit-generator-p/images/Top-24.jpg";
+randomShirt[24] = "https://polk54.github.io/outfit-generator-p/images/Top-25.jpg";
+randomShirt[25] = "https://polk54.github.io/outfit-generator-p/images/Top-26.jpg";
