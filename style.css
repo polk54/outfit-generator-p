@@ -15,8 +15,8 @@ h2{
 }
 
 body{
-  font-family: 'Open Sans', sans-serif;
-  padding: 40px 20px 10px 100px;
+  font-family: 'DM Sans', sans-serif;
+  padding: 20px 20px 10px 100px;
 }
 
 @media only screen and (max-width: 600px) {
@@ -30,36 +30,39 @@ p{
   color: #003459;
 }
 
+/* Buttons + Clothes */
 section{
   display: grid;
-  grid-template-columns: repeat(2, 1fr);
-  grid-gap: 10px;
+  grid-template-columns: 1fr 2fr;
+  grid-gap: 2px;
   grid-auto-rows: minmax(100px, auto);
   overflow: hidden;
   width: 100%;
 }
-
-section2{
-  display: grid;
-  grid-template-columns: repeat(2, 1fr);
-  grid-gap: 0px;
-  grid-auto-rows: minmax(100px, auto);
-  overflow: hidden;
-  width: 100%;
-}
-
+/* Buttons*/
 section1{
   float: left;
+  width: 60%;
+}
+/* Contains 2 sections, with all clothes */
+section2{
+  display: grid;
+  grid-template-columns: repeat(2, 2fr);
+  grid-gap: 0px;
+  grid-auto-rows: minmax(50px);
+  overflow: hidden;
   width: 90%;
 }
 
+/* clothing sections*/
 section3{
   float: left;
-  width: 95%;
+  width: 90%;
 }
+/* Accessory + jacket + shoes */
 section4{
   float: left;
-  width: 50%;
+  width: 70%;
 }
 
 @media only screen and (max-width: 600px) {
@@ -95,18 +98,20 @@ img {
 }
 
 button {
-  font-family: 'Open Sans', sans-serif;
-  color: white;
-  font-size: 16px;
-  background: #BEBFC0;
+  font-family: 'DM Sans', sans-serif;
+  border-radius: 8px;
+  color: #ffb3e9;
+  font-size: 18px;
+  background-color: white;
   padding: 10px 20px 10px 20px;
   margin: 5px 0px 0px 0px;
-  border: none;
+  border: 2px solid #ffbaeb;
 }
 
 button:hover {
-  background: #009CD1;
-  border: none;
+  background: ##ffb3e9;
+  border: 2px solid #de268e;
+  color: #de268e;
   cursor: pointer;
 }
 
@@ -130,17 +135,17 @@ a:visited {
 
 /* mouse over link */
 a:hover {
-    color: #009CD1;
+    color: #de268e;
     cursor: pointer;
 }
 
 /* selected link */
 a:active {
-    color: #009CD1;
+    color: #de268e;
 }
 
 footer{
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'DM Sans', sans-serif;
   color: #555555;
   font-size: 12px;
   margin-top: 40px;
