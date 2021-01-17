@@ -18,3 +18,7 @@ randomAccessory[9] = "https://polk54.github.io/outfit-generator-p/images/Acc-10.
 randomAccessory[10] = "https://polk54.github.io/outfit-generator-p/images/Acc-11.jpg";
 randomAccessory[11] = "https://polk54.github.io/outfit-generator-p/images/Acc-12.jpg";
 randomAccessory[12] = "https://polk54.github.io/outfit-generator-p/images/Acc-13.jpg";
+randomAccessory[13] = "https://polk54.github.io/outfit-generator-p/images/Acc-14.jpg";
+randomAccessory[14] = "https://polk54.github.io/outfit-generator-p/images/Acc-15.jpg";
+randomAccessory[15] = "https://polk54.github.io/outfit-generator-p/images/Acc-16.jpg";
+randomAccessory[16] = "https://polk54.github.io/outfit-generator-p/images/Acc-17.jpg";
