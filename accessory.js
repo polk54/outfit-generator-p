@@ -22,3 +22,4 @@ randomAccessory[13] = "https://polk54.github.io/outfit-generator-p/images/Acc-14
 randomAccessory[14] = "https://polk54.github.io/outfit-generator-p/images/Acc-15.jpg";
 randomAccessory[15] = "https://polk54.github.io/outfit-generator-p/images/Acc-16.jpg";
 randomAccessory[16] = "https://polk54.github.io/outfit-generator-p/images/Acc-17.jpg";
+randomAccessory[17] = "https://polk54.github.io/outfit-generator-p/images/Acc-18.jpg";
